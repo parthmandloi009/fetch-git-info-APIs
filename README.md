@@ -23,9 +23,9 @@ GET /user/api/{name}
 ```
 
 <details open>
-<summary>GitHub handler?</summary>
+<summary>GitHub handler</summary>
 <br>
-Github user handle 
+Here name is github user handle 
 </details>
 
 #### Get user repositories
@@ -39,7 +39,7 @@ GET /user/repo/{name}
 <details open>
 <summary>Github Repository</summary>
 <br>
-Github username to fetch repo
+Here name is github username to fetch repo
 </details>
 
 ## Run Locally

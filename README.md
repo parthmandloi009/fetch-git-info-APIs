@@ -84,6 +84,16 @@ npm start
 
 ```
 
+### UI Demo
+
+#### User page
+
+![user](https://user-images.githubusercontent.com/93531614/148259391-e07a47ae-1cd3-44b1-ba5f-d8ad917d89f2.png)
+
+#### Repository list page
+
+![Screenshot from 2022-01-05 22-39-30](https://user-images.githubusercontent.com/93531614/148259423-4a774d7e-878a-491d-ae93-404a7951ffb3.png)
+
 ## Author
 
 - [@pmandloi](https://github.com/parthmandloi009)
